@@ -76,7 +76,7 @@
 ## About The Project 
 <div align="center">
  <img src="images/screenshot2.png" alt="Logo" width="550" height="300">
-  </div>
+  </div></br>
   
 This application (SPA) is a personal blog where you can save your personal entries.
 
