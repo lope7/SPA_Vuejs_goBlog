@@ -152,6 +152,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Lope Martínez Alcalá - [@lopemaal](https://twitter.com/lopemaal) - martinezalcala@hotmail.com
 
-Project Link:
 
 
